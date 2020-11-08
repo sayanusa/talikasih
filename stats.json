@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "statsName": "Pending"
+    },
+    
+    {
+        "id": 2,
+        "statsName": "Open"
+    },
+    
+    {
+        "id": 3,
+        "statsName": "Finished"
+    },
+    
+    {
+        "id": 4,
+        "statsName": "Rejected"
+    },
+    
+    {
+        "id": 5,
+        "statsName": "Deleted"
+    }
+]
